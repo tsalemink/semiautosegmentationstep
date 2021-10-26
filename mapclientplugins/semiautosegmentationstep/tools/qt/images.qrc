@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="toolbar_icons">
+    <file>curve.png</file>
+    <file>normal.png</file>
+    <file>orientation.png</file>
+    <file>point.png</file>
+  </qresource>
+</RCC>
